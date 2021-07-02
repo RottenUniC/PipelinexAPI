@@ -1,3 +1,2 @@
 # PipelinexAPI
-Based on LRS-Repository by vbhayden
-Added Ilias Containers
+Based on LRS-Repository by vbhayden, just added Ilias Containers.
